@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: metamycelia-IEEE-big-data.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: mybibfile.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in AtaeiACIS
+Warning--empty journal in AtaeiHype
+Warning--empty year in Derras
+Warning--empty journal in ataei2020big
+Warning--missing institution in Chang
+Warning--empty journal in rada2017hype
+Warning--empty year in GALSTER
+Warning--empty year in KazmanATAM
+Warning--empty author in SAPRA
+Warning--empty journal in SAPRA
+Warning--empty year in Klein
+
+Done.
+You've used 55 entries,
+            4087 wiz_defined-function locations,
+            1119 strings with 16744 characters,
+and the built_in function-call counts, 34141 in all, are:
+= -- 2667
+> -- 763
+< -- 220
++ -- 417
+- -- 145
+* -- 1534
+:= -- 5278
+add.period$ -- 123
+call.type$ -- 55
+change.case$ -- 48
+chr.to.int$ -- 522
+cite$ -- 66
+duplicate$ -- 2555
+empty$ -- 3007
+format.name$ -- 172
+if$ -- 7945
+int.to.chr$ -- 0
+int.to.str$ -- 55
+missing$ -- 460
+newline$ -- 208
+num.names$ -- 54
+pop$ -- 1190
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2650
+stack$ -- 0
+substring$ -- 1296
+swap$ -- 1868
+text.length$ -- 46
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 55
+warning$ -- 11
+while$ -- 146
+width$ -- 57
+write$ -- 520
+(There were 11 warnings)
